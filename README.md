@@ -1,2 +1,2 @@
 # Eigo_shoppingCart
-My own coded project
+Self coded project
