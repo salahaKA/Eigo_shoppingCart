@@ -1,2 +1,2 @@
 # Eigo_shoppingCart
-Self coded project
+Frontend, (Basic HTML, CSS, JS)
